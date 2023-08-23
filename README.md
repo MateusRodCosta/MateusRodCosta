@@ -1,7 +1,14 @@
-### Hi there 👋
+# Howdy 🤠! I'm Mateus
 
-<!--
-**MateusRodCosta/MateusRodCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Mateus Rodrigues Costa 🫡, MateusRodCosta for short, and I'm a Brazilian 🇧🇷 Programmer currently focusing on mobile apps development 📱.
+
+- 👨‍💻 I'm currently specializing in mobile development with the [Flutter framework](https://flutter.dev/).
+Some other technologies I have interest as well are Android, Jetpack Compose, Linux, Rust and GTK.
+
+- 🥹 My current creation I'm most proud of is [Vidya Music](https://play.google.com/store/apps/details?id=com.mateusrodcosta.apps.vidyamusic) ([Source code](https://github.com/MateusRodCosta/vidya_music)),
+which is a Flutter app for the very popular VIP Aersia video game music playlist that has been on the web for more than 10 years.
+
+<!--**MateusRodCosta/MateusRodCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
