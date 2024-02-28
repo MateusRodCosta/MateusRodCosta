@@ -24,7 +24,7 @@ I am currently author or maintainer of the following projects:
 - ⚙️ Extensions:
   - [<img src="https://www.vectorlogo.zone/logos/gnome/gnome-icon.svg" alt="gnome" width="20" height="20"/> Default Workspace](https://github.com/MateusRodCosta/gnome-shell-extension-default-workspace) ([GNOME Extensions <img src="https://www.vectorlogo.zone/logos/gnome/gnome-icon.svg" alt="gnome" width="20" height="20"/>](https://extensions.gnome.org/extension/4783/default-workspace/)) - Switches to the specified workspace on login
 - Other:
-  - 🖼️ [bign-handheld-thumbnailer](https://github.com/MateusRodCosta/bign-handheld-thumbnailer) - A thumbnailer for Nintendo handheld systems (Nintendo DS and 3DS) roms and files
+  - 🖼️ [bign-handheld-thumbnailer](https://github.com/MateusRodCosta/bign-handheld-thumbnailer)(Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="20" height="20"/>, Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>) - A thumbnailer for Nintendo handheld systems (Nintendo DS and 3DS) roms and files
 
 <h3 align="center">Some statistics, for fun!</h3>
 
