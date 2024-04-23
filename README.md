@@ -28,6 +28,13 @@ I am currently author or maintainer of the following projects:
 - Other:
   - 🖼️ [bign-handheld-thumbnailer](https://github.com/MateusRodCosta/bign-handheld-thumbnailer)(Rust <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="rust" width="20" height="20"/>, Linux <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/>) - A thumbnailer for Nintendo handheld systems (Nintendo DS and 3DS) roms and files
 
+<h3 align="center">A bit more about me</h3>
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" alt="fedora" width="20" height="20" /> [Fedora Linux](https://fedoraproject.org/) Contributor since 2021. 
+  - ✒️ Currently writing for [Fedora Magazine](https://fedoramagazine.org/). ([Some of my articles](https://fedoramagazine.org/author/mateusrodcosta/))
+- 🗃 Currently working on archiving the Brazilian variants of old Cartoon Network games (in both Shockwave and Flash formats) into [Flashpoint](https://flashpointarchive.org/)
+- 🗃 Currently working on adding the pt-BR versions (including creating the lost translations) into [the web ports of the Cartoon Cartoon Summer Resort and Scooby Doo Hollywood Horror games](https://github.com/mattbruv/ccsr). ([Hosted version](https://mattbruv.github.io/ccsr/))
+
 <h3 align="center">Some statistics, for fun!</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusrodcosta&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
