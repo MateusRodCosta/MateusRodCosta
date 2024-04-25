@@ -37,6 +37,6 @@ I am currently author or maintainer of the following projects:
 
 <h3 align="center">Some statistics, for fun!</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusrodcosta&show_icons=true&locale=en&layout=compact" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateusrodcosta&show_icons=true&locale=en" alt="Mateus' GitHub stats" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRodCosta&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+&nbsp; 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusRodCosta&show_icons=true&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats)
