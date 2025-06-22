@@ -33,7 +33,8 @@ I am currently author or maintainer of the following projects:
 <h3 align="center">A bit more about me</h3>
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" alt="fedora" width="20" height="20" /> [Fedora Linux](https://fedoraproject.org/) Contributor since 2021. 
-  - ✒️ I usually write for [Fedora Magazine](https://fedoramagazine.org/), mainly about Fedora Atomic Desktops and sometimes technical tutorials. You can see some of my articles [here](https://fedoramagazine.org/author/mateusrodcosta/),.
+  - ✒️ [Fedora Magazine](https://fedoramagazine.org/) writer since 2021 ([some of my articles](https://fedoramagazine.org/author/mateusrodcosta/)) - I usually write about Fedora Atomic Desktops and sometimes technical tutorials.
+  - 📦 [Fedora packager](https://src.fedoraproject.org/user/mateusrodcosta) since 2025 - Currently packaging [bign-handheld-thumbnailer](https://src.fedoraproject.org/rpms/bign-handheld-thumbnailer) and [bbox-firago-fonts](https://src.fedoraproject.org/rpms/bbox-firago-fonts).
 - 🗃️ Shockwave and Flash Archivist
   - 🗃️ Due to the death of Flash and the death of the Cartoon Network websites (removed in favor to the CN section on Max), I have been working on slowly archiving the Brazilian variants of old Cartoon Network games (mainly Shockwave and Flash formats) into [Flashpoint](https://flashpointarchive.org/)
   - 🗃️ As a side effect I have helped on adding the pt-BR versions (including creating the lost translations) into [the web ports of the Cartoon Cartoon Summer Resort and Scooby Doo Hollywood Horror games](https://github.com/mattbruv/ccsr). ([Hosted version](https://mattbruv.github.io/ccsr/))
