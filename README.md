@@ -14,7 +14,7 @@ _Penápolis - SP, Brazil_
 
 ### Notable Open Source Contributions
 
-* **Fedora Project** (Contributor) [Feb 2021 - Current]
+* [**Fedora Project**](https://fedoraproject.org/) (Contributor, **FAS**: _mateusrodcosta_) [Feb 2021 - Current]
   * Packager
-  * Fedora Magazine Writer ([list of articles](https://fedoramagazine.org/author/mateusrodcosta/))
+  * [Fedora Magazine](https://fedoramagazine.org/) Writer ([list of articles](https://fedoramagazine.org/author/mateusrodcosta/))
   * Fedora Docs Contributor
