@@ -27,3 +27,8 @@ I am a driven Software Engineer with over 5 years of professional experience, pa
 * **Packager:** Packager and maintainer for the official Fedora/RHEL repositories, ensuring compliance with strict packaging guidelines (currently focusing on the `bign-handheld-thumbnailer` package)
 * **Technical Writer:** Regular writer for [Fedora Magazine](https://fedoramagazine.org/), producing in-depth technical writeups and tutorials. Check out my [list of published articles](https://fedoramagazine.org/author/mateusrodcosta/)
 * **Fedora Docs:** Contributor to the official system documentation
+
+### Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MateusRodCosta&custom_title=MateusRodCosta's%20Stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=MateusRodCosta&custom_title=MateusRodCosta's%20Stats&show_icons=true&include_all_commits=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MateusRodCosta&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=MateusRodCosta&layout=compact&langs_count=6)
