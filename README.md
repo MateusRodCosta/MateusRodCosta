@@ -1,10 +1,10 @@
-## Hello, I'm Mateus Rodrigues Costa 👋
+## 👋 Hello, I'm Mateus Rodrigues Costa 
 
 I also go by "Matias" in certain gaming contexts.
 
-**Software Engineer | Technical Writer**
+👨‍💻 **Software Engineer | Technical Writer**
 
-_Penápolis - SP, Brazil_
+📍 _Penápolis - SP, Brazil_
 
 I am a driven Software Engineer with over 5 years of professional experience, passionate about crafting high-quality, performant, and resource-efficient software. My current focus is firmly rooted in native Android development utilizing **Kotlin** and **Jetpack Compose**, alongside systems programming and tooling with **Rust**.
 
@@ -13,7 +13,7 @@ I am a driven Software Engineer with over 5 years of professional experience, pa
 * **Mobile & UI:** Jetpack Compose, Flutter, Clean Architecture, Multi-module design
 * **OS & Systems:** Linux (Fedora/RHEL ecosystem), Gio (GLib)
 
-### 🚀 Notable Projects
+### 💡 Notable Projects
 
 * [**Save Locally**](https://github.com/MateusRodCosta/SaveLocally) [Kotlin, Jetpack Compose, Android] [AGPLv3+] - An open-source (AGPLv3+) privacy-respecting Android utility built with Jetpack Compose. It registers as a Share target, invoking the system file picker to allow users to save files to any local directory, bridging the usability gap for apps lacking a native "Save" option
 * **Vidya Music**
@@ -28,7 +28,7 @@ I am a driven Software Engineer with over 5 years of professional experience, pa
 * **Technical Writer:** Regular writer for [Fedora Magazine](https://fedoramagazine.org/), producing in-depth technical writeups and tutorials. Check out my [list of published articles](https://fedoramagazine.org/author/mateusrodcosta/)
 * **Fedora Docs:** Contributor to the official system documentation
 
-### Stats
+### 📊 Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MateusRodCosta&custom_title=MateusRodCosta's%20Stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=MateusRodCosta&custom_title=MateusRodCosta's%20Stats&show_icons=true&include_all_commits=true)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MateusRodCosta&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=MateusRodCosta&layout=compact&langs_count=6)
