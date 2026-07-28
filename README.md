@@ -35,5 +35,5 @@ I am a driven Software Engineer with over 5 years of professional experience, pa
 
 ### 📊 Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MateusRodCosta&custom_title=MateusRodCosta's%20Stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=MateusRodCosta&custom_title=MateusRodCosta's%20Stats&show_icons=true&include_all_commits=true)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MateusRodCosta&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=MateusRodCosta&layout=compact&langs_count=8)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MateusRodCosta&custom_title=MateusRodCosta's%20Stats&show_icons=true&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MateusRodCosta&layout=compact&langs_count=8)](https://github.com/stats-organization/github-stats-extended)
