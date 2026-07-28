@@ -4,7 +4,7 @@ I also go by "Matias" in certain gaming contexts.
 
 👨‍💻 **Software Engineer | Technical Writer**
 
-📍 _Penápolis - SP, Brazil_
+📍 _Penápolis - SP, Brazil 🇧🇷_
 
 I am a driven Software Engineer with over 5 years of professional experience, passionate about crafting high-quality, performant, and resource-efficient software. My current focus is firmly rooted in native Android development utilizing **Kotlin** and **Jetpack Compose**, alongside systems programming and tooling with **Rust**.
 
@@ -27,6 +27,11 @@ I am a driven Software Engineer with over 5 years of professional experience, pa
 * **Packager:** Packager and maintainer for the official Fedora/RHEL repositories, ensuring compliance with strict packaging guidelines (currently focusing on the `bign-handheld-thumbnailer` package)
 * **Technical Writer:** Regular writer for [Fedora Magazine](https://fedoramagazine.org/), producing in-depth technical writeups and tutorials. Check out my [list of published articles](https://fedoramagazine.org/author/mateusrodcosta/)
 * **Fedora Docs:** Contributor to the official system documentation
+
+### 🎮🛠 Gaming Modding
+
+* [**Rift of the Necrodancer**](https://store.steampowered.com/app/2073250/Rift_of_the_NecroDancer/) - [Custom charts on Steam Workshop](https://steamcommunity.com/id/MatiasDSaitam/myworkshopfiles?appid=2073250)
+* [**Garry's Mod (GMod)**](https://store.steampowered.com/app/4000/Garrys_Mod/) - [Addons on Steam Workshop](https://steamcommunity.com/id/MatiasDSaitam/myworkshopfiles?appid=4000)
 
 ### 📊 Stats
 
